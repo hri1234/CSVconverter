@@ -1,0 +1,4 @@
+name,sku,description,product_sub_category_id,product_brand_id,quantity,purchase_price,sale_price,unit_type,reorder_quantity,unit_measurement
+product1,pro1,new product,1,1,45,67,4565,pc,10,10
+p2,pro2,new product,1,1,79,456,4566,pc,10,10
+p3,pro3,new product,1,1,23,56,33,pc,10,10
